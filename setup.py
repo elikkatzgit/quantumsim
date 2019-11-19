@@ -3,6 +3,7 @@
 from setuptools import setup, find_packages
 
 
+
 # Loads version.py module without importing the whole package.
 def get_version_and_cmdclass(package_path):
     import os
