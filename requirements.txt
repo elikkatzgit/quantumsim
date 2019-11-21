@@ -12,4 +12,4 @@ Pygments==1.4
 SQLAlchemy==0.7.1
 South==0.7.3
 amqplib==0.6.1
-anyjson==0.3
+anyjson==0.3.3
