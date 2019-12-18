@@ -7,7 +7,7 @@ BeautifulSoup==3.2.2
 Django==1.11.27
 Fabric==1.14.1
 Jinja2==2.10.3
-PyYAML==3.13
+PyYAML==5.2
 Pygments==1.6
 SQLAlchemy==0.9.10
 South==0.8.4
