@@ -11,5 +11,5 @@ PyYAML==3.13
 Pygments==1.6
 SQLAlchemy==0.9.10
 South==0.8.4
-amqplib==0.6.1
+amqplib==1.0.2
 anyjson==0.3
